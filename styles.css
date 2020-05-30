@@ -51,3 +51,10 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+.aaa{
+  height:50px;
+  width:250px;
+  text-align: center;
+  font-size:30px;
+  background-color: #fff;
+}
