@@ -9,7 +9,7 @@ var started = false;
 //開始等級
 var level = 0;
 //任意鍵
-// change h1 tag to the level title
+// change h1 tag to the level title12313513512.
 $(document).keypress(function() {
 //如果還沒開始的啟動程式
   if (!started) {
